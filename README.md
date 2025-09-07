@@ -43,7 +43,9 @@ base: "https://api.openweathermap.org/data/2.5/"
 ## File Structure
 
 ├── index.html # Main HTML structure
+
 ├── main.css # Stylesheet for UI styling
+
 ├── main.js # JavaScript to handle API calls and UI updates
 
 
